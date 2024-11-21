@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Scribe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">New</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_rename">Rename</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="record_message">Click on Mic to record</string>
+    <string name="message">Message</string>
+    <string name="x_xx">X:XX</string>
+</resources>
